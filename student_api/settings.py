@@ -23,7 +23,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = '5o2b$j$8$pyfoysx981b6jrxz5xk+j-pv8!$4p5#%&omz%86=!'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['studentapiproject.herokuapp.com','127.0.0.1']
 
